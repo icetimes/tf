@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # @Time    : 2019/4/30 9:58
 # @Author  : huyulan
-# @Email   : huyulan@boe.com.cn
+# @Email   : huyulan518@126.com
 # @File    : one-hot-tf.py
 # @Software: PyCharm
 
